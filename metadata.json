@@ -1,0 +1,15 @@
+{
+  "name": "puppettraining-trialmodule",
+  "version": "0.1.0",
+  "author": "puppettraining",
+  "summary": "A trial module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/puppettraining/trialmodule.git",
+  "project_page": "Test",
+  "issues_url": "Test",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
